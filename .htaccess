@@ -1,1 +1,7 @@
-Redirect 301 /12.html http://eazyedu.github.io/100.html
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine On
+
+Redirect 301 /12 https://youtube.com
+
+</IfModule>
