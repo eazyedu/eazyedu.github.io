@@ -2,6 +2,6 @@
 Options +FollowSymLinks
 RewriteEngine On
 
-Redirect 301 /12.html eazyedu.github.io/100.html
+Redirect 301 /12.html https://eazyedu.github.io/100.html
 
 </IfModule>
