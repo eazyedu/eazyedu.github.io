@@ -4,4 +4,4 @@ RewriteEngine On
 
 </IfModule>
 
-Redirect 301 /12.html https://eazyedu.github.io/100.html
+Redirect 301 /123123.html https://eazyedu.github.io/100.html
