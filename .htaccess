@@ -2,6 +2,6 @@
 Options +FollowSymLinks
 RewriteEngine On
 
-Redirect 301 /12 https://youtube.com
+Redirect 301 /12.html https://youtube.com
 
 </IfModule>
