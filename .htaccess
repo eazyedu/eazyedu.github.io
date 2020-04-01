@@ -2,6 +2,9 @@
 Options +FollowSymLinks
 RewriteEngine On
 
+RewriteCond %{QUERY_STRING} 123123
+RewriteRule .* https://eazyedu.github.io/123123.html [R=301,L]
+
 </IfModule>
 
 Redirect 301 /123123.html https://eazyedu.github.io/100.html
