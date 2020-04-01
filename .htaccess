@@ -1,1 +1,8 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine On
+
 Redirect 301 /12.html https://www.eazyedu.github.io/100.html
+
+</IfModule>
+
