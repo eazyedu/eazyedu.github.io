@@ -1,10 +1,1 @@
-<IfModule mod_rewrite.c>
-Options +FollowSymLinks
-RewriteEngine On
-
-RewriteCond %{QUERY_STRING} 12
-RewriteRule .* https://eazyedu.github.io/123123.html [R=301,L]
-
-</IfModule>
-
-Redirect 301 /123123.html https://eazyedu.github.io/100.html
+Redirect 301 /12.html https://www.eazyedu.github.io/100.html
